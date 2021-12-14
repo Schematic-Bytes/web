@@ -14,7 +14,8 @@ function submit(){
     }
 	else if (document.getElementById("country").value== "-1"){
 		alert("Country cannot be empty");
-		console.log('pooi');
 	}
+	else
+		alert("Sucess!");
 }
 
