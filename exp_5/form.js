@@ -16,6 +16,6 @@ function submit(){
 		alert("Country cannot be empty");
 	}
 	else
-		alert("Sucess!");
+		alert("Success!");
 }
 
