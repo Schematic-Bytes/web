@@ -13,7 +13,7 @@
     Total: $total\n
     ";
 	echo $out;
-	$filename = "temp.txt"
+	$filename = "temp.txt";
 	$file = fopen($filename, "w+");
 	fwrite($file, $out);
 	fclose($file);
