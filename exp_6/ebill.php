@@ -12,5 +12,5 @@
 	echo"<h1 style='text-align: center'><u>Consumer Bill</u></h2>
 			<p>Consumer Number: $cnum</p>
 			<p>Consumer Name: $cname</p>
-			<p>Totl unit charge: $amt</p>"
+			<p>Total unit charge: $amt</p>"
 ?>
